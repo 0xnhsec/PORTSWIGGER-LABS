@@ -32,17 +32,17 @@ PORTSWIGGER-LABS/
 
 ## Vulnerability Categories Covered
 
-- **[00-SQLI-Labs](file:///home/ardxcryz/PORTSWIGGER-LABS/00-SQLI-Labs/)**: Retrieving hidden data, UNION-based exfiltration, database version querying, and database schema dumping on Oracle and MySQL.
-- **[01-XSS-Labs](file:///home/ardxcryz/PORTSWIGGER-LABS/01-XSS-Labs/)**: Reflected, Stored, and DOM-based XSS, WAF bypasses (custom tag manipulation, SVG event handlers), cookie stealing, and CSRF injection.
-- **[02-BAC-Labs](file:///home/ardxcryz/PORTSWIGGER-LABS/02-BAC-Labs/)**: Vertical and Horizontal access control bypasses, Insecure Direct Object References (IDOR), HTTP method overrides, and referer-based controls.
-- **[03-BLF-Labs](file:///home/ardxcryz/PORTSWIGGER-LABS/03-BLF-Labs/)**: Logic flaws involving excessive trust in client inputs, integer overflows, email address truncation discrepancies, and workflow state machine bypasses.
-- **[04-API-Labs](file:///home/ardxcryz/PORTSWIGGER-LABS/04-API-Labs/)**: API reconnaissance, dynamic swagger schema exploitation, Mass Assignment, and Server-Side Parameter Pollution (SSPP) in query strings and REST URLs.
-- **[05-JWT-Labs](file:///home/ardxcryz/PORTSWIGGER-LABS/05-JWT-Labs/)**: Session hijacking using algorithm manipulation (`none`), weak HMAC secret cracking, and header injections (`jwk`, `jku`, `kid` path traversal).
-- **[06-CSRF-Labs](file:///home/ardxcryz/PORTSWIGGER-LABS/06-CSRF-Labs/)**: anti-CSRF token bypasses, cookie-to-token validation flaws, SameSite restrictions bypasses (Strict, Lax), and Referer spoofing.
-- **[07-OAUTH-Labs2.0](file:///home/ardxcryz/PORTSWIGGER-LABS/07-OAUTH-Labs2.0/)**: Implicit grant flow bypasses, profile linking CSRF, authorization code exfiltration via open redirect parameters, and Dynamic Client Registration SSRF.
-- **[08-AUTH-Labs](file:///home/ardxcryz/PORTSWIGGER-LABS/08-AUTH-Labs/)**: Username enumeration (timing and response discrepancies), 2FA bypasses, brute-force rate-limiting bypasses, and Host header poisoning.
-- **[09-DOM-Labs](file:///home/ardxcryz/PORTSWIGGER-LABS/09-DOM-Labs/)**: Client-side message listening vulnerabilities, DOM-based redirects, cookie manipulations, and DOM Clobbering (overwriting globals and bypassing HTMLJanitor sanitizers).
-- **[10-RaCo-Labs](file:///home/ardxcryz/PORTSWIGGER-LABS/10-RaCo-Labs/)**: Concurrency testing via single-packet multiplexing (HTTP/2), TOCTOU limit overruns, multi-endpoint state races, and partial construction state exploits.
+- **[00-SQLI-Labs](PORTSWIGGER-LABS/00-SQLI-Labs/)**: Retrieving hidden data, UNION-based exfiltration, database version querying, and database schema dumping on Oracle and MySQL.
+- **[01-XSS-Labs](PORTSWIGGER-LABS/01-XSS-Labs/)**: Reflected, Stored, and DOM-based XSS, WAF bypasses (custom tag manipulation, SVG event handlers), cookie stealing, and CSRF injection.
+- **[02-BAC-Labs](PORTSWIGGER-LABS/02-BAC-Labs/)**: Vertical and Horizontal access control bypasses, Insecure Direct Object References (IDOR), HTTP method overrides, and referer-based controls.
+- **[03-BLF-Labs](PORTSWIGGER-LABS/03-BLF-Labs/)**: Logic flaws involving excessive trust in client inputs, integer overflows, email address truncation discrepancies, and workflow state machine bypasses.
+- **[04-API-Labs](PORTSWIGGER-LABS/04-API-Labs/)**: API reconnaissance, dynamic swagger schema exploitation, Mass Assignment, and Server-Side Parameter Pollution (SSPP) in query strings and REST URLs.
+- **[05-JWT-Labs](PORTSWIGGER-LABS/05-JWT-Labs/)**: Session hijacking using algorithm manipulation (`none`), weak HMAC secret cracking, and header injections (`jwk`, `jku`, `kid` path traversal).
+- **[06-CSRF-Labs](PORTSWIGGER-LABS/06-CSRF-Labs/)**: anti-CSRF token bypasses, cookie-to-token validation flaws, SameSite restrictions bypasses (Strict, Lax), and Referer spoofing.
+- **[07-OAUTH-Labs2.0](PORTSWIGGER-LABS/07-OAUTH-Labs2.0/)**: Implicit grant flow bypasses, profile linking CSRF, authorization code exfiltration via open redirect parameters, and Dynamic Client Registration SSRF.
+- **[08-AUTH-Labs](PORTSWIGGER-LABS/08-AUTH-Labs/)**: Username enumeration (timing and response discrepancies), 2FA bypasses, brute-force rate-limiting bypasses, and Host header poisoning.
+- **[09-DOM-Labs](PORTSWIGGER-LABS/09-DOM-Labs/)**: Client-side message listening vulnerabilities, DOM-based redirects, cookie manipulations, and DOM Clobbering (overwriting globals and bypassing HTMLJanitor sanitizers).
+- **[10-RaCo-Labs](PORTSWIGGER-LABS/10-RaCo-Labs/)**: Concurrency testing via single-packet multiplexing (HTTP/2), TOCTOU limit overruns, multi-endpoint state races, and partial construction state exploits.
 
 ---
 
